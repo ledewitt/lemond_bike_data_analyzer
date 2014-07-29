@@ -1,0 +1,1 @@
+Personal project to pull and analyze data from a Lemond G Force Upright Trainer Bike.
